@@ -84,14 +84,14 @@ All trained using:
 
 ## 📁 Project Structure
 phishing-detection-with-ai/
+
 ├── phishing_ai_detection.ipynb
-├── requirements.txt
+
 ├── README.md
+
 ├── LICENSE
-└── /datasets
-├── a.csv (original: Phishing_Email.csv)
-├── b.csv (original: Phishing_Email.csv)
-└── CEAS_08.csv
+
+├── results
 
 ---
 
