@@ -85,13 +85,13 @@ All trained using:
 ## 📁 Project Structure
 phishing-detection-with-ai/
 
-├── phishing_ai_detection.ipynb
+├──Text-classification-phishing-detection-with-AI.ipynb.ipynb
 
-├── README.md
+├──README.md
 
-├── LICENSE
+├──LICENSE
 
-├── results
+├──results
 
 ---
 
