@@ -12,7 +12,7 @@ The pipeline includes both traditional models (SVM, Random Forest, etc.) and dee
 
 ## 📂 Dataset & Source
 
-- **Input Datasets**:
+- **Datasets**:
   - `a.csv` - [Traditional phishing dataset](https://www.kaggle.com/datasets/subhajournal/phishingemails)
   - `b.csv` - [CEAS phishing challenge data](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=phishing_email.csv)
   - `CEAS_08.csv` - [Evaluation dataset](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=CEAS_08.csv)
